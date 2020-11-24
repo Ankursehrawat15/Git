@@ -25,6 +25,7 @@ public class Main {
         total_salary = hra + da + basic + allow -pf;
         
         System.out.println(Math.round(total_salary));
+        System.out.println("Hello");
 			      
         
 
